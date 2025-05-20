@@ -77,10 +77,9 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Onyeka Stephen
+Stephen Onyeka
 
 ## Contributing
-
 1. Feel free to fork this project and submit pull requests for any improvements.
 2. Create your feature branch (git checkout -b feature/AmazingFeature)
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
