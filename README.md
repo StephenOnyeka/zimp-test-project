@@ -2,6 +2,10 @@
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript. This portfolio template features a clean design, smooth animations, and a color theme switcher.
 
+## 🌐 Live Demo
+
+Check out the live version of this portfolio: [View Live Portfolio](https://stephenonyeka.github.io/zimp-test-project/)
+
 ## Features
 
 - 🎨 Multiple color themes (5 different color schemes)
@@ -77,4 +81,8 @@ Onyeka Stephen
 
 ## Contributing
 
-Feel free to fork this project and submit pull requests for any improvements.
+1. Feel free to fork this project and submit pull requests for any improvements.
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
